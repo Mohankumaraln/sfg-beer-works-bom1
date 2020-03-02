@@ -26,7 +26,7 @@
     </parent>
 
     <groupId>com.github.sfg-beer-works</groupId>
-    <artifactId>sfg-beer-works-bom</artifactId>
+    <artifactId>sfg-beer-works-bom1</artifactId>
     <version>1.0.17-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -53,7 +53,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <java.version>11</java.version>
+        <java.version>1.8</java.version>
         <jaxb.version>2.3.0</jaxb.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
